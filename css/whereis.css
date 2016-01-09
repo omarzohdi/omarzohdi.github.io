@@ -1,0 +1,10 @@
+/* tags */
+body { background: url(images/simple_dashed.png); height: 100%;}
+p { word-wrap: break-word;   text-align: justify; font-family:  "slabo", Times, serif; color:white;}
+a { color:white; font-family:  "slabo", Times, serif; text-decoration: none; }
+h2 {color:white;font-family:  "slabo", Times, serif; text-align: center;}
+h1 {color:white;font-family:  "slabo", Times, serif; text-align: center;}
+
+
+redtext {color:red;}
+#map { border-color: red; border-width: 5px; border-style: solid; width:60%; height: 600px; background-color: #CCC; margin: 0 auto;}
