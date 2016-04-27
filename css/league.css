@@ -1,0 +1,25 @@
+html { height: 100%; }
+body { background: url(images/simple_dashed.png); height: 100%; }
+p { word-wrap: break-word;   text-align: justify; font-family:  "slabo", Times, serif; color:white;}
+a { color:white; font-family:  "slabo", Times, serif; text-decoration: none; }
+h2 {color:white;font-family:  "slabo", Times, serif; text-align: center;}
+
+div { color:white; }
+
+.sections {height: 80%; border-color: white; border-style: solid; border-width: 1px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
+.prof-pic { float:left; margin-top: 5px;}
+.prof-pic img { float:left; width:70px}
+.menu ul { margin-top: 20px; }
+.menu li { background-color: black; }
+
+.title { text-align: center; width: 50%; margin: 0 auto;}
+.container-fluid-up { height: 100%; }
+.row { height: 100% }
+.lnavbar { }
+.spnsor { }
+.menu { height: 80%; }
+.chat {}
+.chat .title {  padding: 1em 1em 1em 1em; text-align: center; }
+.activity { }
+.activity .title {  padding: 1em 1em 1em 1em; text-align: center; }
+.buffer { height: 80%; }
